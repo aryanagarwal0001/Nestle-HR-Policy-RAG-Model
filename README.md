@@ -22,4 +22,4 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline to enabl
 - Interactive Gradio interface for user queries.  
 
 ----------------IMPORTANT--------------------
-Make sure to insert YOUR GEMINI API KEY IN embeddings column and while creation of llm model.
+Make sure to insert YOUR GOOGLE API KEY IN embeddings column and while creation of llm model.
